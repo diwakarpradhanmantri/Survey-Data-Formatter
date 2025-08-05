@@ -1,0 +1,9 @@
+Name,Age,Gender,Subscribed,Feedback,Newsletter
+Alice,25.0,Female,Yes,Good,Yes
+Bob,30.0,Male,No,Average,No
+Charlie,22.0,Male,Yes,Excellent,Yes
+Diana,,Female,No,,No
+Eve,28.0,,Yes,Poor,Yes
+,,Male,Yes,Bad,Yes
+Frank,35.0,Male,No,,No
+Grace,27.0,Female,Yes,Great,Yes

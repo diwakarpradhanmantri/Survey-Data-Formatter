@@ -1,0 +1,9 @@
+Name,Age,Gender,Subscribed,Feedback,Newsletter,Constant_Column
+Alice,25.0,Female,yes,Good,y,Test
+Bob,30.0,Male,No,Average,N,Test
+Charlie,22.0,Male,Y,Excellent,Yes,Test
+Diana,,Female,n,,No,Test
+Eve,28.0,,Yes,Poor,Y,Test
+,,Male,y,Bad,Yes,Test
+Frank,35.0,Male,N,,n,Test
+Grace,27.0,Female,YES,Great,y,Test
